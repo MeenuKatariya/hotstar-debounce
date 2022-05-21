@@ -1,0 +1,49 @@
+#SearchData{
+    /* border: 1px solid black; */
+    width:500px;
+    margin: auto;
+}
+#searchMovie{
+   width: 390px;
+   text-align: center;
+}
+#box{
+    /* border: 1px solid black; */
+    width:26%;
+    margin-left: 510px;
+   
+
+
+
+}
+.div{
+    display: flex;
+    justify-content: right;
+    border: 1px solid black;
+
+
+}
+
+img{
+    /* border: 1px solid black; */
+    width: 100px;
+    height:40px;
+    margin: auto;
+    margin-left:6px;
+   
+}
+p{
+  
+    text-decoration: bold;
+}
+#mainAll{
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:1vw;
+}
+.poster{
+    height: 100px;
+    width:200px;
+    
+}
